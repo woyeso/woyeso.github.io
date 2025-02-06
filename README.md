@@ -1,9 +1,3 @@
----
-title: "Dr. Geda's Resume"
-layout: default
-theme: jekyll-theme-minimal
----
-
 # Dr. Geda's Resume
 
 ## 📚 Academic Qualifications
